@@ -1,0 +1,1 @@
+export default function Home() { return (<h1>Dr Padmaja Portfolio - Next.js</h1> ); }
